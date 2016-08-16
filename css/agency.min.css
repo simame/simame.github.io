@@ -586,7 +586,7 @@ ul.social-buttons li a {
 	transition:all .3s
 }
 ul.social-buttons li a:active,ul.social-buttons li a:focus,ul.social-buttons li a:hover {
-	background-color:#fed136
+	background-color:#0fe0ba;
 }
 .btn.active,.btn:active,.btn:active:focus,.btn:focus {
 	outline:0
